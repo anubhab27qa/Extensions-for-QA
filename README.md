@@ -82,7 +82,3 @@ test-locator-pro/
 1. Prefer **id**, **data-testid**, **name**, and **structural xpath** in priority
 2. Keep **xpathText** and **linkText** lower in priority (language-dependent)
 3. Scan one reference locale first, then scan other domains — duplicates are skipped automatically
-
-## License
-
-MIT
