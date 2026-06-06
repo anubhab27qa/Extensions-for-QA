@@ -1,0 +1,9 @@
+{
+  "name": "test-locator-pro",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "icons": "node scripts/generate-icons.js"
+  }
+}
